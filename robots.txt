@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-u70i99.cuansalam.cfd/sitemap.xml
